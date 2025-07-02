@@ -1,2 +1,2 @@
-# COT2000-LAB
+# COT2000c-LAB
 A repository to keep COT2000 labs code.
